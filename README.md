@@ -6,18 +6,16 @@ QMark是一款随手记录的状态栏笔记工具，专为macOS设计。它让�
 
 - 🎯 极简设计：简洁优雅的界面，让您专注于写作本身
 - ⚡️ 快速响应：即开即用，流畅的书写体验
-- 📝 Markdown支持：轻松创建格式化文档
 - 🔒 数据安全：本地存储，完全掌控您的数据
 - 🎨 主题切换：明暗主题，护眼舒适
-- 🔍 实时搜索：快速定位笔记内容
 
 ## 💻 系统要求
 
-- macOS 11.0 或更高版本
+- macOS 13.0 或更高版本
 
 ## ⬇️ 下载安装
 
-1. 在本页面的 [Releases](https://github.com/YOUR_USERNAME/QMark-releases/releases) 区域下载最新版本
+1. 在本页面的 [Releases](https://github.com/Liamzai/QMark-releases/releases) 区域下载最新版本
 2. 打开下载的DMG文件
 3. 将QMark拖入Applications文件夹
 4. 从启动台启动QMark即可开始使用
