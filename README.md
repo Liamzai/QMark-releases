@@ -5,10 +5,7 @@ English | [中文](./README.zh-CN.md)
 <div align="center">
     <p><strong>A lightweight, elegant note-taking tool that lives in your menu bar</strong></p>
     <p>
-        <a href="https://qmark.ltd">Website</a> •
-        <a href="#installation">Installation</a> •
-        <a href="#features">Features</a> •
-        <a href="#changelog">Changelog</a>
+        <a href="https://qmark.ltd">Website</a>
     </p>
 </div>
 
@@ -47,11 +44,10 @@ QMark is designed for those who value efficiency and simplicity in note-taking. 
 
 ## 📝 Changelog
 
-### v0.4.0 (2024-12-31)
-- ✨ Added Sticky Notes with floating window support
-- 🎨 Redesigned history window interface
-- 🐛 Fixed window display issues
-- ⚡️ Performance and stability improvements
+### v0.4.1 (2025-01-07)
+- 🎨 Optimized sticky note UI design
+- ✨ Improved sticky note color system
+- ⚡️ Improved performance and stability
 
 ## 🤝 Contributing
 
@@ -59,7 +55,3 @@ We welcome feedback and suggestions! If you encounter any issues or have ideas f
 
 - Submit an issue via [GitHub Issues](https://github.com/Liamzai/QMark-releases/issues)
 - Contact us through our [website](https://qmark.ltd)
-
-## 📜 License
-
-QMark is released under the MIT License. See the LICENSE file for more details.
