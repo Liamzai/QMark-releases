@@ -42,7 +42,7 @@ QMark is designed for those who value efficiency and simplicity in note-taking. 
 
 > **Note**: If you see "cannot be opened" on first launch, right-click the app icon and select "Open". This is a standard macOS security feature.
 
-## �� Changelog
+## 📝 Changelog
 
 ### v0.5.0 (2024-01-20)
 - 🔄 New data storage engine, improved data read and write performance

@@ -18,10 +18,10 @@
             ]]></description>
             <pubDate>Sat, 20 Jan 2024 03:04:00 +0000</pubDate>
             <enclosure
-                url="https://github.com/Liamzai/QMark-releases/releases/download/v0.5.0/QMark-0.5.0.zip"
+                url="https://github.com/Liamzai/QMark-releases/releases/download/v0.5.0/QMark.dmg"
                 sparkle:version="0.5.0"
-                sparkle:edSignature="9ORkbuz8w8t1MBfkdbeq/l9gTC11H3UB2It9ymdUGkT/UTZCkFLln43qbDr1Z4M0MTtdVWLapwInaTQMFZtIBw=="
-                length="1879334"
+                sparkle:edSignature="BlXWwDY8W142vxhLTdrIk98O3IQFnZW8uhjQ79UaxqPKMRrSXHtv9AC0Ex/I9IFC34GUPFvINuXwenm+VCGBBg=="
+                length="2407185"
                 type="application/octet-stream"/>
         </item>
     </channel>
