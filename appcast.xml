@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>QMark Updates</title>
-    <link>https://github.com/Liamzai/QMark-releases</link>
-    <description>QMark - 随手记录的状态栏笔记工具</description>
-    <language>zh</language>
-    <item>
-      <title>Version 0.5.0</title>
-      <sparkle:version>0.5.0</sparkle:version>
-      <description><![CDATA[
+    <channel>
+        <title>QMark Updates</title>
+        <link>https://github.com/Liamzai/QMark-releases</link>
+        <description>QMark - 随手记录的状态栏笔记工具</description>
+        <language>zh</language>
+        <item>
+            <title>Version 0.5.0</title>
+            <sparkle:version>0.5.0</sparkle:version>
+            <description><![CDATA[
 ### 新功能和改进
 • 全新数据存储引擎，提升数据读写性能
 • 便利贴界面升级：
   • 支持自由拖拽调整大小
   • 优化视觉样式和交互体验
 • 新增自动更新功能，及时获取最新版本
-      ]]></description>
-      <pubDate>Sat, 20 Jan 2024 03:04:00 +0000</pubDate>
-      <enclosure
-        url="https://github.com/Liamzai/QMark-releases/releases/download/v0.5.0/QMark-0.5.0.zip"
-        sparkle:version="0.5.0"
-        sparkle:edSignature="9ORkbuz8w8t1MBfkdbeq/l9gTC11H3UB2It9ymdUGkT/UTZCkFLln43qbDr1Z4M0MTtdVWLapwInaTQMFZtIBw=="
-        length="1879334"
-        type="application/octet-stream"
-      />
-    </item>
-  </channel>
-</rss> 
+            ]]></description>
+            <pubDate>Sat, 20 Jan 2024 03:04:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Liamzai/QMark-releases/releases/download/v0.5.0/QMark-0.5.0.zip"
+                sparkle:version="0.5.0"
+                sparkle:edSignature="9ORkbuz8w8t1MBfkdbeq/l9gTC11H3UB2It9ymdUGkT/UTZCkFLln43qbDr1Z4M0MTtdVWLapwInaTQMFZtIBw=="
+                length="1879334"
+                type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
