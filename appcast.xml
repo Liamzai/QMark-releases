@@ -6,6 +6,23 @@
         <description>QMark - 随手记录的状态栏笔记工具</description>
         <language>zh</language>
         <item>
+            <title>Version 0.5.1</title>
+            <sparkle:version>0.5.1</sparkle:version>
+            <description><![CDATA[
+### 新功能和改进
+• 便利贴功能增强：
+  • 支持双击头部恢复默认大小
+• 修复已知问题
+            ]]></description>
+            <pubDate>Sat, 20 Jan 2024 19:09:09 +0800</pubDate>
+            <enclosure
+                url="https://github.com/Liamzai/QMark-releases/releases/download/v0.5.1/QMark.dmg"
+                sparkle:version="0.5.1"
+                sparkle:edSignature="7DZX3m1nZmhzU3aYz26RGwQ9wdPH08eaAdLNmnnt0CZRhLIF7qfpE/jrD/sXKBpkvufazf37r19XtF1mO3A4DA=="
+                length="2410998"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.5.0</title>
             <sparkle:version>0.5.0</sparkle:version>
             <description><![CDATA[
