@@ -7,7 +7,7 @@
         <language>zh</language>
         <item>
             <title>Version 0.5.1</title>
-            <sparkle:version>0.5.1</sparkle:version>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
