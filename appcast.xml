@@ -19,8 +19,6 @@
             <pubDate>Sun, 21 Jan 2024 10:56:00 +0800</pubDate>
             <enclosure
                 url="https://github.com/Liamzai/QMark-releases/releases/download/v0.5.1/QMark.dmg"
-                sparkle:version="0.5.1"
-                sparkle:shortVersionString="0.5.1"
                 sparkle:edSignature="M/6EHrkQCmmCbQBn3r4GrVRPW9o0J83aYX/8gEdhEHRdZBXD698UNby/TKp4uMAGqjMZn1v4wh/Kk9qOF4ORDw=="
                 length="2412880"
                 type="application/octet-stream"/>
