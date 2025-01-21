@@ -8,37 +8,21 @@
         <item>
             <title>Version 0.5.1</title>
             <sparkle:version>0.5.1</sparkle:version>
+            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
 ### 新功能和改进
 • 便利贴功能增强：
   • 支持双击头部恢复默认大小
 • 修复已知问题
             ]]></description>
-            <pubDate>Sat, 20 Jan 2024 19:09:09 +0800</pubDate>
+            <pubDate>Sun, 21 Jan 2024 10:56:00 +0800</pubDate>
             <enclosure
                 url="https://github.com/Liamzai/QMark-releases/releases/download/v0.5.1/QMark.dmg"
                 sparkle:version="0.5.1"
-                sparkle:edSignature="7DZX3m1nZmhzU3aYz26RGwQ9wdPH08eaAdLNmnnt0CZRhLIF7qfpE/jrD/sXKBpkvufazf37r19XtF1mO3A4DA=="
-                length="2410998"
-                type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Version 0.5.0</title>
-            <sparkle:version>0.5.0</sparkle:version>
-            <description><![CDATA[
-### 新功能和改进
-• 全新数据存储引擎，提升数据读写性能
-• 便利贴界面升级：
-  • 支持自由拖拽调整大小
-  • 优化视觉样式和交互体验
-• 新增自动更新功能，及时获取最新版本
-            ]]></description>
-            <pubDate>Sat, 20 Jan 2024 03:04:00 +0000</pubDate>
-            <enclosure
-                url="https://github.com/Liamzai/QMark-releases/releases/download/v0.5.0/QMark.dmg"
-                sparkle:version="0.5.0"
-                sparkle:edSignature="BlXWwDY8W142vxhLTdrIk98O3IQFnZW8uhjQ79UaxqPKMRrSXHtv9AC0Ex/I9IFC34GUPFvINuXwenm+VCGBBg=="
-                length="2407185"
+                sparkle:shortVersionString="0.5.1"
+                sparkle:edSignature="M/6EHrkQCmmCbQBn3r4GrVRPW9o0J83aYX/8gEdhEHRdZBXD698UNby/TKp4uMAGqjMZn1v4wh/Kk9qOF4ORDw=="
+                length="2412880"
                 type="application/octet-stream"/>
         </item>
     </channel>
