@@ -44,7 +44,7 @@ QMark is designed for those who value efficiency and simplicity in note-taking. 
 
 ## 📝 Changelog
 
-### v0.5.1 (2024-01-20)
+### v0.5.1 (2025-01-20)
 - 🔄 New data storage engine, improved data read and write performance
 - 🎨 Enhanced sticky note interface with resizable windows
 - ⚡️ Improved app performance and stability
